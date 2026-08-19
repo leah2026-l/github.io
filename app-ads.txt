@@ -1,0 +1,15 @@
+bigo.sg,itef44o3yx,DIRECT
+rubiconproject.com,25686,reseller
+smartadserver.com,4695,reseller
+lijit.com,512006,reseller
+appsheep.com,b4070e679b974be9bf2150cde7d28b73,reseller
+taurusx.com,80066,reseller
+pubmatic.com,164891,reseller
+adyoulike.com,f78b24039641337f06634ab9a3da4b48,reseller
+inmobi.com,791b84bdd791470faa8dca5f04e6a83b,reseller
+nextmillennium.io,14807,reseller
+loopme.com,13946,reseller
+aralego.com,par-d2346aab7abd36b4cdd7bbd264ba92e2,reseller
+my-cast.tv,987137,reseller
+thunder-monetize.com,1723306631,reseller
+improvedigital.com,2534,reseller
